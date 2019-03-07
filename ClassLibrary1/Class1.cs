@@ -11,6 +11,7 @@ namespace ClassLibrary1
         public void get()
         {
             Console.WriteLine("what!!!!");
+            Console.Write("ssss");
         }
 
     }
